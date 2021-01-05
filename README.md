@@ -7,4 +7,4 @@ mi primer proyecto
   phpinfo(); 
 ?>
 ```
-## Descripcion
+## Descripcion del proyecto
